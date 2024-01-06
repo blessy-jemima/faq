@@ -1,0 +1,43 @@
+.list-card-container {
+  border: 2px solid #d7dae6;
+  border-radius: 20px;
+  width: 80%;
+  min-height: 70px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.qn-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.qn-heading {
+  font-size: 27px;
+  color: #52606d;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.image {
+  height: 20px;
+  width: 20px;
+}
+
+.hr {
+  background-color: #e4e7eb;
+  width: 100%;
+}
+
+.qn-para {
+  color: #9aa5b1;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
